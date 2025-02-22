@@ -17,7 +17,7 @@ Este programa es un simulador interactivo del método McCabe-Thiele para el dise
 ## Instalación y uso
 1. Descarga este repositorio (clic en **Code** > **Download ZIP**) o clónalo con Git:
    ```bash
-   git clone https://github.com/tu-usuario/McCabeThieleSimulator.git
+   git clone https://github.com/jmsantangelo/Destilacion_V4_0_limite_q.git
 
 ## Uso
 - Ajusta los deslizadores para modificar \(R\), \(q\), \(xD\), \(zF\), y \(xB\).
