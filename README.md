@@ -18,3 +18,26 @@ Este programa es un simulador interactivo del método McCabe-Thiele para el dise
 1. Descarga este repositorio (clic en **Code** > **Download ZIP**) o clónalo con Git:
    ```bash
    git clone https://github.com/tu-usuario/McCabeThieleSimulator.git
+
+## Uso
+- Ajusta los deslizadores para modificar \(R\), \(q\), \(xD\), \(zF\), y \(xB\).
+- Presiona "Etapas" para calcular las etapas de destilación.
+- Usa "PDF" para exportar el gráfico o "Exportar Informe" para guardar los datos.
+- Si el punto de intersección sale del área válida, aparecerá una advertencia. Usa "Volver" o ajusta manualmente los deslizadores para regresar a una condición válida.
+
+## Licencia
+Este proyecto está licenciado bajo la [MIT License](LICENSE) - siéntete libre de usarlo, editarlo y modificarlo como desees, siempre que incluyas el aviso de copyright y esta licencia.
+
+## Contribuciones
+¡Las contribuciones son bienvenidas! Si quieres mejorar este programa:
+1. Haz un fork del repositorio.
+2. Crea una rama para tus cambios (`git checkout -b mi-mejora`).
+3. Commitea tus cambios (`git commit -m "Descripción de la mejora"`).
+4. Sube tu rama (`git push origin mi-mejora`).
+5. Abre un Pull Request en GitHub.
+
+## Autor
+- [Juan Manuel Santangelo] (jmsantangelo@gmail.com)
+
+## Créditos
+Desarrollado con la ayuda de Grok (xAI) para optimización y depuración.
