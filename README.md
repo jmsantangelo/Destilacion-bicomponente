@@ -12,7 +12,7 @@ Este programa es un simulador interactivo del método McCabe-Thiele para el dise
 
 ## Requisitos
 - [Processing 4](https://processing.org/download/)
-- Biblioteca **ControlP5** (instálala desde el menú de Processing: `Sketch > Import Library > Add Library`, busca "ControlP5" y haz clic en "Install").
+- Biblioteca **ControlP5** y **processing.pdf** (instálala desde el menú de Processing: `Sketch > Import Library > Add Library`, buscar la libreria en cuestion y haz clic en "Install").
 
 ## Instalación y uso
 1. Descarga este repositorio (clic en **Code** > **Download ZIP**) o clónalo con Git:
